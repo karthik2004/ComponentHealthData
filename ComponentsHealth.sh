@@ -49,3 +49,6 @@ Ipaddress Camera_Lane_2 192.168.92.166
 Ipaddress HME_Connection 192.168.92.160
 Ipaddress SE_AB 192.168.92.168
 CephHealth
+
+
+cat health_data.txt
